@@ -12,10 +12,10 @@
         android:clickable="true"
         android:src="@android:drawable/ic_input_add" />
 
-    <ImageView
-        android:id="@+id/imageView2"
+    <ImageButton
+        android:id="@+id/imageButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:srcCompat="@mipmap/logoLiga" />
+        android:src="@android:drawable/btn_star" />
 
 </LinearLayout>
